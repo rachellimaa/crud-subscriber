@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Subscriber</string>
+
+    <!--SubscriberFragment-->
+    <string name="subscribers_name">Subscriber\'s name</string>
+    <string name="email">E-mail</string>
+    <string name="add">Add</string>
+
+    <!--main_graph-->
+    <string name="subscriber_title">Subscriber</string>
+</resources>
